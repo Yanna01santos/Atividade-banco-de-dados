@@ -1,1 +1,0 @@
-Este é um exmeplo de persistência em arquivo de texto
